@@ -14,7 +14,7 @@ int main (void)
         printf("Enter choice:");
         scanf("%d",&choice);
         if(choice==0)
-          break;
+          break; 
         switch(choice){
           case 1:price=3.0;break;
           case 2:price=2.5;break;
